@@ -1,0 +1,25 @@
+RED-ARITH: Tagged-Residue Floating-Point Arithmetic
+====================================================
+
+Original Author: Liu Yijing (刘一京)
+First Public Disclosure: July 2026
+Technical Paper DOI: 10.5281/zenodo.21631955
+Source Code: https://github.com/wuxinye/red_arith
+
+This software is provided under the Apache License 2.0.
+
+PRIOR ART STATEMENT
+-------------------
+The core technical innovation of RED-ARITH — representing numerical
+values as (main value M + explicit residue label k + denominator D),
+with residue scaling during arithmetic operations to ensure
+deterministic, audit-friendly, and zero-floating-point-error results —
+was first publicly disclosed by Liu Yijing in July 2026. 
+
+Any patent application filed after this disclosure that covers the 
+same or equivalent technical scheme may be subject to invalidation 
+based on this prior art.
+
+This project is intended to serve as an open-source reference
+implementation for deterministic numerical computation in high-stakes
+financial and scientific applications.
