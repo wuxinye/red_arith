@@ -1,4 +1,5 @@
-# DDH-Core (C语言版) v2.0
+> **Citation**: Liu Yijing. (2026). *RED-ARITH: Tagged-Residue Floating-Point Arithmetic*. Zenodo. DOI: [10.5281/zenodo.21690972](https://doi.org/10.5281/zenodo.21690972)
+> # DDH-Core (C语言版) v2.0
 
 纯整数 DDH 运算库 —— 无浮点、无误差、规则统一，适配龙芯 LoongArch。
 
