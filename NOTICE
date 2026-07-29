@@ -23,3 +23,5 @@ based on this prior art.
 This project is intended to serve as an open-source reference
 implementation for deterministic numerical computation in high-stakes
 financial and scientific applications.
+
+Zenodo Record: https://doi.org/10.5281/zenodo.21690972
