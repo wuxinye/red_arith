@@ -17,6 +17,5 @@ Traditional floating-point math can produce subtle variations due to compiler op
 
 *(这里根据你的实际情况填写，如果是C++/Python库，写上编译命令；如果是论文附属代码，可以写如何使用)*
 
-## 📜 Citation
-
-If you use RED-ARITH in your research or project, please cite our work:
+## Citation
+Liu Yijing. (2026). RED-ARITH: Tagged-Residue Floating-Point Arithmetic. Zenodo. DOI: 10.5281/zenodo.21690972
