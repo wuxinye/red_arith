@@ -1,5 +1,18 @@
 RED-ARITH: Tagged-Residue Floating-Point Arithmetic
 ====================================================
+Copyright 2025 Yijing Liu
+
+SPDX-License-Identifier: Apache-2.0
+
+⚠️  DISCLAIMER: This software is a research prototype provided "AS IS" and "AS AVAILABLE". 
+The authors make no representations or warranties of any kind, express or implied, as to the operation 
+of the software, its fitness for a particular purpose, or non-infringement. 
+By using this software, you agree that the authors shall not be liable for any damages, 
+including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages, 
+arising from the use of this software.
+
+⚠️  SECURITY WARNING: This implementation is NOT hardened for production. It lacks overflow protection 
+and security auditing. Do not use in financial production environments without further engineering.
 
 Original Author: Liu Yijing (刘一京)
 First Public Disclosure: July 2026
