@@ -1,3 +1,21 @@
+/**
+ * @file red_arith.c
+ * @brief Core implementation of RED-ARITH operations.
+ *
+ * ⚠️ WARNING: RESEARCH PROTOTYPE ONLY ⚠️
+ * This implementation is provided "as-is" for algorithmic verification and academic study.
+ * It has NOT been hardened against:
+ *   - Integer overflow in large-scale aggregation
+ *   - Timing side-channel attacks
+ *   - Memory safety issues under adversarial input
+ * Production use requires integration with secure big-integer libraries (e.g., GMP)
+ * and thorough third-party auditing.
+ *
+ * @author Yijing Liu
+ * @license Apache 2.0
+ */
+#include "red_arith.h"
+...
 > **Citation**: Liu Yijing. (2026). *RED-ARITH: Tagged-Residue Floating-Point Arithmetic*. Zenodo. DOI: [10.5281/zenodo.21690972](https://doi.org/10.5281/zenodo.21690972)
 > # DDH-Core (C语言版) v2.0
 
