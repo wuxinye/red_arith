@@ -1,3 +1,15 @@
+# RED-ARITH
+
+> **⚠️ Research Prototype Warning**
+> This codebase is a **research prototype** intended for algorithmic verification and academic study.
+> **It is NOT production-ready.** Do not deploy this code in financial production systems, audit pipelines, or any environment handling real funds without conducting thorough security audits, overflow protection, and performance profiling.
+> Use at your own risk.
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.21631955.svg)](https://doi.org/10.5281/zenodo.21631955)
+
+## Introduction
+RED-ARITH (Residue-Enhanced Deterministic Arithmetic) is a numerical model designed for auditable computing...
 # DDH-Float
 
 > **一种面向确定性计算的带标签余数浮点算术模型**
